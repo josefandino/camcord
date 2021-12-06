@@ -1,0 +1,7 @@
+{
+  "name": "camcord",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
